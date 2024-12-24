@@ -3,4 +3,5 @@
 # En la página de productos tenemos una grilla responsive, adaptada adecuadamente y con estilos que funcionan en conjunto con toda la página.
 # Cada producto tiene un botón de más información el cuál busca en la API por el id del producto en cuestión para mostrar un modal con toda la información que no se muestra en la card principal.
 # Queda pendiente la implementación del carrito y la persistencia en localStorage y sessionStorage.
+# Queda pendiente la funcionalidad de la barra de busqueda e implementar filtros por categoría y rango de precio.
 # Proyecto creado por Sergio Vázquez (ElliotCode) con la ayuda y tutoría de Nicolas Rivera, instructor y mentor del curso Frontend-Js de Talento Tech.
